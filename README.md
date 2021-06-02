@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/cleitonrs/stats-preview-card-component-main]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://cleitonrs.github.io/stats-preview-card-component-main/]
 
 ## My process
 
