@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop-preview](https://user-images.githubusercontent.com/62728037/120537860-2a8bb900-c3bc-11eb-8846-65e01602c910.jpg)
 
 
 ### Links
